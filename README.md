@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @AndryGamerTV
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ChatGPT
+
